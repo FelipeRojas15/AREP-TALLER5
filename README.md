@@ -7,6 +7,12 @@ Para desarrollar esta aplicacion, utlizaremos 5 contenedores Docker que se distr
 - La base de datos tendra un contenedor.
 - El LoadBalancer tendra un contenedor que se encargara de distribuir las solicitudes entre los 3 nodos de la aplicación web.
 ![Desing](https://i.ibb.co/VHj25bg/Arquitecture-Design.png)
+
+## Integracion Continua
+- LoadBalancer
+[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER.svg?style=svg)](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER)
+- Spark Web
+[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5SPARKWEB.svg?style=svg)](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5SPARKWEB)
 ## Requerimientos 
 Se necesita que tenga instalado en su computadora:
 ```sh
@@ -18,6 +24,11 @@ $ Docker
 > **Clonar el repositorio**
 ```sh
 $ https://github.com/FelipeRojas15/AREP-TALLER5
+```
+> **Clonar imagenes de DockerHub**
+```sh
+$ docker pull felipereds/loadbalancerdocker:latest
+$ docker pull felipereds/sparkwebdocker:latest
 ```
 > **Compilar el proyecto:**
 ```sh
