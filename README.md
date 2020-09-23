@@ -21,8 +21,8 @@ $ Maven 3.6.3
 $ Docker
 ```
 ## Javadocs
-Para ver el javadoc para el LoadBalancer click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
-Para ver el javadoc para el SparkWeb click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
+- Para ver el javadoc para el LoadBalancer click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
+- Para ver el javadoc para el SparkWeb click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
 ## Getting to Start
 > **Clonar el repositorio**
 ```sh
