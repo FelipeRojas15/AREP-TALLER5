@@ -10,9 +10,9 @@ Para desarrollar esta aplicacion, utlizaremos 5 contenedores Docker que se distr
 
 ## Integracion Continua
 - LoadBalancer
-[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER.svg?style=svg)](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER)
+[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER.svg?style=svg)](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5LOADBALANCER/tree/master/Docs)
 - Spark Web
-[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5SPARKWEB.svg?style=svg)](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5SPARKWEB)
+[![CircleCI](https://circleci.com/gh/FelipeRojas15/AREP-TALLER5SPARKWEB.svg?style=svg)](https://github.com/FelipeRojas15/AREP-TALLER5SPARKWEB/tree/master/Docs)
 ## Requerimientos 
 Se necesita que tenga instalado en su computadora:
 ```sh
@@ -20,6 +20,9 @@ $ Java 1.8
 $ Maven 3.6.3
 $ Docker
 ```
+## Javadocs
+Para ver el javadoc para el LoadBalancer click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
+Para ver el javadoc para el SparkWeb click [Aquí](https://github.com/FelipeRojas15/AREP-TALLER5LOADBALANCER)
 ## Getting to Start
 > **Clonar el repositorio**
 ```sh
